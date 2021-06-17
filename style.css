@@ -1,0 +1,10 @@
+body{
+    height: 95vh; /*altura - vh */
+    width: 95; /*largura para  a vista da pagina*/
+    display: flex; /*flexbox*/
+    justify-content: center; /* alinha horizontalmente no meio*/
+    align-items: center; /*alinha verticalmente no meio*/
+    flex-direction: column; /*manter um embaixo do outro*/
+    color: darkblue;
+
+}
